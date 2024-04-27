@@ -30,7 +30,7 @@ export default {
   },
   mounted() {
     axios
-      .get('/data.json')
+      .get('./data.json')
       .then((response) => {
         this.artists = response.data
       })
