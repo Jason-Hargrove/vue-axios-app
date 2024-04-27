@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Vincent van Gogh",
+    "phone": "123-456-7890",
+    "address": "Post-Impressionist Street, NL"
+  },
+  {
+    "name": "Pablo Picasso",
+    "phone": "234-567-8901",
+    "address": "Cubism Lane, ES"
+  },
+  {
+    "name": "Claude Monet",
+    "phone": "345-678-9012",
+    "address": "Impressionist Blvd, FR"
+  },
+  {
+    "name": "Leonardo da Vinci",
+    "phone": "456-789-0123",
+    "address": "Renaissance Road, IT"
+  },
+  {
+    "name": "Frida Kahlo",
+    "phone": "567-890-1234",
+    "address": "Surrealist St., MX"
+  },
+  {
+    "name": "Rembrandt van Rijn",
+    "phone": "678-901-2345",
+    "address": "Baroque Ave, NL"
+  },
+  {
+    "name": "Georgia O'Keeffe",
+    "phone": "789-012-3456",
+    "address": "Modernist Way, US"
+  },
+  {
+    "name": "Michelangelo",
+    "phone": "890-123-4567",
+    "address": "High Renaissance Route, IT"
+  },
+  {
+    "name": "Jackson Pollock",
+    "phone": "901-234-5678",
+    "address": "Abstract Expressionist Path, US"
+  },
+  {
+    "name": "Johannes Vermeer",
+    "phone": "012-345-6789",
+    "address": "Dutch Golden Age Alley, NL"
+  },
+  {
+    "name": "Salvador Dalí",
+    "phone": "123-456-7800",
+    "address": "Surrealism Street, ES"
+  },
+  {
+    "name": "Andy Warhol",
+    "phone": "234-567-8900",
+    "address": "Pop Art Ave, US"
+  },
+  {
+    "name": "Edvard Munch",
+    "phone": "345-678-9010",
+    "address": "Expressionist Blvd, NO"
+  },
+  {
+    "name": "Henri Matisse",
+    "phone": "456-789-0120",
+    "address": "Fauvism Lane, FR"
+  },
+  {
+    "name": "Gustav Klimt",
+    "phone": "567-890-1230",
+    "address": "Symbolism Street, AT"
+  },
+  {
+    "name": "Caravaggio",
+    "phone": "678-901-2340",
+    "address": "Baroque Boulevard, IT"
+  },
+  {
+    "name": "Diego Rivera",
+    "phone": "789-012-3450",
+    "address": "Muralist Way, MX"
+  },
+  {
+    "name": "Keith Haring",
+    "phone": "890-123-4560",
+    "address": "Pop Art Path, US"
+  },
+  {
+    "name": "Edgar Degas",
+    "phone": "901-234-5670",
+    "address": "Impressionist Road, FR"
+  },
+  {
+    "name": "Mary Cassatt",
+    "phone": "012-345-6780",
+    "address": "Impressionism Avenue, US"
+  }
+]
